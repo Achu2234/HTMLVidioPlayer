@@ -2,6 +2,8 @@
 
 HTML5 video default player customization By Achu biju
 
+Star Repo🌟 Enjoy & Share !!😇❤️
+
 ### Installation options
 
 **Option one:** One-click deploy
