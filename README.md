@@ -2,8 +2,6 @@
 
 HTML5 video default player customization By Achu biju
 
-Star Repo🌟 Enjoy & Share !!😇❤️
-
 ### Installation options
 
 **Option one:** One-click deploy
@@ -21,3 +19,4 @@ Star Repo🌟 Enjoy & Share !!😇❤️
 
 You may include an optional hero image in your posts. Put the images in `public/static/`, and then include in your blog .md file like so:
 
+Star Repo🌟 Enjoy & Share !!😇❤️
